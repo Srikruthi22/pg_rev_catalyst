@@ -1,0 +1,112 @@
+﻿Transaction_ID,Date,Customer_ID,Customer_Age,Customer_Segment,Product_Category,Primary_Product,Primary_Product_Price,Upsell_Offer,Upsell_Price,Upsell_Acceptance,Additional_Service,Additional_Service_Price,Total_Transaction_Value
+T001,2024-09-01,C001,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T002,2024-09-02,C002,32,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T003,2024-09-03,C003,26,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T004,2024-09-04,C004,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T005,2024-09-05,C005,35,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T006,2024-09-06,C006,27,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T007,2024-09-07,C007,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T008,2024-09-08,C008,33,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T009,2024-09-09,C009,30,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T010,2024-09-10,C010,36,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T011,2024-09-11,C011,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T012,2024-09-12,C012,34,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T013,2024-09-13,C013,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T014,2024-09-14,C014,30,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T015,2024-09-15,C015,27,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T016,2024-09-16,C016,32,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T017,2024-09-17,C017,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T018,2024-09-18,C018,35,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T019,2024-09-19,C019,33,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T020,2024-09-20,C020,26,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T021,2024-09-21,C021,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T022,2024-09-22,C022,28,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T023,2024-09-23,C023,30,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T024,2024-09-24,C024,34,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T025,2024-09-25,C025,27,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T026,2024-09-26,C026,32,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T027,2024-09-27,C027,35,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T028,2024-09-28,C028,30,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T029,2024-09-29,C029,33,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T030,2024-09-30,C030,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T031,2024-10-01,C031,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T032,2024-10-02,C032,36,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T033,2024-10-03,C033,30,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T034,2024-10-04,C034,27,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T035,2024-10-05,C035,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T036,2024-10-06,C036,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T037,2024-10-07,C037,33,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T038,2024-10-08,C038,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T039,2024-10-09,C039,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T040,2024-10-10,C040,35,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T041,2024-10-11,C041,30,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T042,2024-10-12,C042,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T043,2024-10-13,C043,27,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T044,2024-10-14,C044,34,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T045,2024-10-15,C045,29,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T046,2024-10-16,C046,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T047,2024-10-17,C047,33,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T048,2024-10-18,C048,36,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T049,2024-10-19,C049,28,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T050,2024-10-20,C050,30,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T051,2024-10-21,C051,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T052,2024-10-22,C052,34,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T053,2024-10-23,C053,32,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T054,2024-10-24,C054,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T055,2024-10-25,C055,31,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T056,2024-10-26,C056,27,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T057,2024-10-27,C057,33,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T058,2024-10-28,C058,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T059,2024-10-29,C059,35,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T060,2024-10-30,C060,30,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T061,2024-10-31,C061,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T062,2024-11-01,C062,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T063,2024-11-02,C063,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T064,2024-11-03,C064,33,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T065,2024-11-04,C065,27,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T066,2024-11-05,C066,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T067,2024-11-06,C067,34,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T068,2024-11-07,C068,30,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T069,2024-11-08,C069,28,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T070,2024-11-09,C070,35,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T071,2024-11-10,C071,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T072,2024-11-11,C072,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T073,2024-11-12,C073,27,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T074,2024-11-13,C074,33,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T075,2024-11-14,C075,30,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T076,2024-11-15,C076,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T077,2024-11-16,C077,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T078,2024-11-17,C078,35,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T079,2024-11-18,C079,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T080,2024-11-19,C080,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T081,2024-11-20,C081,30,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T082,2024-11-21,C082,33,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T083,2024-11-22,C083,28,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T084,2024-11-23,C084,27,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T085,2024-11-24,C085,31,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T086,2024-11-25,C086,32,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T087,2024-11-26,C087,29,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T088,2024-11-27,C088,34,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T089,2024-11-28,C089,30,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T090,2024-11-29,C090,27,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T091,2024-11-30,C091,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T092,2024-12-01,C092,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T093,2024-12-02,C093,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T094,2024-12-03,C094,33,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T095,2024-12-04,C095,30,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T096,2024-12-05,C096,31,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T097,2024-12-06,C097,28,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,None,0,60
+T098,2024-12-07,C098,35,Segment C,PG Solutions,Payment Processing,50,Premium Support Package,10,No,None,0,50
+T099,2024-12-08,C099,32,Segment B,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+T100,2024-12-09,C100,29,Segment A,PG Solutions,Payment Processing,50,Premium Support Package,10,Yes,Bundled Financial Service,20,80
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
